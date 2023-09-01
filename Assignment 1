@@ -1,0 +1,2 @@
+Names of students on the slack = input( "Ojo Gideon","Awojobi Faith", "Adekunle Joshua", "Agboola Beulah", "Ademola isreal", "Adeosun Adetoun","Abayomi Jesutofunmi", "Oyewole Elizabeth", "Komolafe Deborah", "Fawole Ayomide", "Fowowe Esther", "Akinwale Precious",)
+print( " Names of students on the slack") = 

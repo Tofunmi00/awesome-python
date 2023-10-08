@@ -1,6 +1,6 @@
 a = ("7")
- = ("6")
-c= ("4")
+b= ("6") 
+c = ("4")
 a+b+c=("17")
 average a = ("17/3")
 average = input ("average of three numbers") 

@@ -1,2 +1,8 @@
-# These are supported funding model platforms
-open_collective: awesome-python
+a = ("7")
+ = ("6")
+c= ("4")
+a+b+c=("17")
+average a = ("17/3")
+average = input ("average of three numbers") 
+average = 5.667
+print ("average") = 5.667

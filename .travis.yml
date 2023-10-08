@@ -1,18 +1,8 @@
-language: python
-
-python:
-  - "3.6"
-
-script:
-  - python sort.py
-  - cp README.md docs/index.md
-  - mkdocs build
-
-deploy:
-  provider: pages
-  local-dir: site
-  skip-cleanup: true
-  keep-history: true
-  github-token: $GITHUB_TOKEN
-  on:
-    branch: master
+a = ("7")
+b =("6")
+c= ("4")
+a+b+c=("17")
+average a = ("17/3")
+average = input ("average of three numbers") 
+average = 5.667
+print ("average") = 5.667
